@@ -1,1 +1,1 @@
-This is a Store App by Austin Scholl
+
